@@ -1,0 +1,101 @@
+*{
+
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+
+}
+
+
+
+body{
+	background-color: #EFEFF1;
+	height: auto;
+margin-top: 20px;
+margin-bottom: auto;
+margin-right: auto;
+margin-left: auto;
+}
+
+
+/* Number 1 */
+
+
+
+.project005{
+width: 1000px;
+	margin: auto;
+}
+
+.project005 .logo{
+	background-image: url(images/Logo006.jpg);
+height: 150px;
+
+}
+
+.manu{
+	height: 30px;
+	background-color: #FCFF05;
+
+}
+ 
+ ul{
+list-style: none;
+margin: 0px;
+padding: 10px;
+overflow: hidden;
+}
+
+
+
+.manu ul{
+list-style: none;
+padding: 0px;
+float: left;
+
+}
+
+.manu ul li{
+
+	float: left;
+	padding: 8px;
+
+}
+
+.Hewa{
+	float: right;
+padding-right: 20px;
+padding: 8px;	
+
+}
+
+
+/* End Number 1 */
+
+
+
+/* sidebar   */
+
+
+.hemin{
+
+
+	width: 1000px;
+	height: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-right: auto;
+
+}
+
+
+.cen{
+width: 1000px;
+height: 500px;
+background-image: url(images/m1.jpg);
+float: left;
+}
+
+
+/* end sidebar */
